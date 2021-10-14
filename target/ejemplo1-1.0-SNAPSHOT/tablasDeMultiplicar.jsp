@@ -27,7 +27,7 @@
             <div class="nav nav-pills nav-fill">
                 <ul class="nav justify-content-center">
                     <li class="nav-item">
-                        <a class="nav-link " href="index.jps">Inicio</a>
+                        <a class="nav-link " href="index.jsp">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="tablasDeMultiplicar.jsp">Tabla de Multiplicar</a>
